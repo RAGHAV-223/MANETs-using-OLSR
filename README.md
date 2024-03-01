@@ -37,3 +37,6 @@
 
 - [Raghav Anthal](https://github.com/RAGHAV-223)
 - [Preet Paul Sharma](https://github.com/NOBODY1819)
+- [Aakash Sudan](https://github.com/AakashSudan)
+- [Vanshak Chhabra](https://github.com/Vanshak77)
+- [Amandeep Singh](https://github.com/Amandeep208)
